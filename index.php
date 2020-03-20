@@ -73,7 +73,7 @@
           </div>
           
           <div class="col-md-4 article-cent">
-              <img class="img-responsive" alt="portrait" src="images/picture%20for%20columns.png">
+              <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site/images/pictureforcolumns.jpg">
                                                                                                
               <h4>A PORTRAIT</h4>
               <p class="date">12 December 2020</p>
@@ -83,7 +83,7 @@
           </div>
           
                  <div class="col-md-4 article-cent">
-                       <img class="img-responsive" alt="portrait" src="images/picture%20for%20columns.png">
+                       <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site/images/a-model.jpg">
                      
               <h4>A MODEL</h4>
                <p class="date">12 December 2020</p>
@@ -93,7 +93,7 @@
           </div>
           
                 <div class="col-md-4 article-cent">
-                      <img class="img-responsive" alt="portrait" src="images/picture%20for%20columns.png">
+                      <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site/images/leaf.jpg">
                     
               <h4>GAMES DESIGN</h4>
                <p class="date">12 December 2020</p>
