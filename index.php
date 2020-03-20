@@ -92,7 +92,7 @@ wp_reset_query();?>
           </div>
           
           <div class="col-md-4 article-cent">
-              <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site/images/pictureforcolumns.jpg">
+              <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site1/images/pictureforcolumns.jpg">
                                                                                                
               <h4>A PORTRAIT</h4>
               <p class="date">12 December 2020</p>
@@ -102,7 +102,7 @@ wp_reset_query();?>
           </div>
           
                  <div class="col-md-4 article-cent">
-                       <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site/images/a-model.jpg">
+                       <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site1/images/a-model.jpg">
                      
               <h4>A MODEL</h4>
                <p class="date">12 December 2020</p>
@@ -112,7 +112,7 @@ wp_reset_query();?>
           </div>
           
                 <div class="col-md-4 article-cent">
-                      <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site/images/leaf.jpg">
+                      <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site1/images/leaf.jpg">
                     
               <h4>GAMES DESIGN</h4>
                <p class="date">12 December 2020</p>
