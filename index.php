@@ -132,13 +132,13 @@ wp_reset_query();?>
               
               <div class="col-md-6 text-center footer-content">
                <p>JOSH WHITKIN</p>
-                  <img src="images/twitter.png" alt="twitter">
-                  <img src="images/wifi.png" alt="twitter">
+                  <img src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site1/images/twitter.jpg" alt="twitter">
+                  <img src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site1/images/wifi.jpg" alt="wifi">
               </div>
                  <div class="col-md-6 text-center footer-content">
                <p>Terms and Conditions</p>
-                      <img src="images/in.png" alt="twitter">
-                  <img src="images/facebook.png" alt="twitter">
+                      <img src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site1/images/in.jpg" alt="in">
+                  <img src="http://206.189.45.97/~mesh11/wp-content/themes/starter_for_josh_site1/images/facebookjpg" alt="facebook">
               </div>
 
           </div>
