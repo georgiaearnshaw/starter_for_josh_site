@@ -62,7 +62,7 @@
 <?php
 global $more;//define a global variable
 $more = 0;// the global varibale is now equal to 0
-query_posts('cat=2');//look for posts that have the category of 2
+query_posts('cat=3');//look for posts that have the category of 2
 if(have_posts()) ://if we have posts to display
 while(have_posts()) :the_post();//LOOP through all the posts and find the one that has a category of 2 get thet title and content
 ?>
