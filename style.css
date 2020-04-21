@@ -1,3 +1,11 @@
+/*   
+Theme Name: Georgia
+Theme URI: http://joshwhitkin.com
+Description: A style-free theme to get you started on an HTML5-based Wordpress theme of your own.
+Author: Me
+Author URI: http://joshwhitkin.com
+Version: 1
+*/
 body{
     font-size:16px;
     font-family:arial, sans-serif;
@@ -37,6 +45,13 @@ font-size:2.0em
     .herobg{
         background: url(images/header-bg.jpg);
         background-size: cover;
+    }
+
+   .small_herobg{
+       width:100%;
+        background: url(images/small_header-bg.jpg);
+        background-size: cover;
+       height:40vh;
     }
     
 .herobg h1{
@@ -121,6 +136,7 @@ h4{
     color:#a19ba6;
     font-size:0.9em;
     margin-bottom:40px;
+    display: block;
     
 }
 
@@ -140,7 +156,5 @@ footer{
     margin-top:30px;
     margin-bottom:30px;
     color:white;
-}
-
 }
     

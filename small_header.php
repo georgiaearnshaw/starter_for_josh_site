@@ -43,7 +43,7 @@
     
     </head>
   <body>
-         <header class="container-fluid herobg">
+         <header class="container-fluid small_herobg">
      <nav class="navbar">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -69,7 +69,7 @@
 </nav> 
       
           <div class="container">
-              <h1> Games Design for the future</h1>
+        
           </div>
       </header>
   
